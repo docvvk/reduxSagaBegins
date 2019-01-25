@@ -1,6 +1,6 @@
 import React from 'react';
-import List from './List';
-import Form from './Form';
+import List from './List.jsx';
+import Form from './Form.jsx';
 
 const App = () => {
     return ( 
